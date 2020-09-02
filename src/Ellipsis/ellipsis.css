@@ -1,0 +1,16 @@
+.ellipsis-content {
+  display: inline-block;
+}
+
+.ellipsis-content.ellipsis-text {
+  margin-right: 4px;
+}
+
+.ellipsis-content.ellipsis-action {
+  color: blue;
+}
+
+.ellipsis-content.ellipsis-action:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
